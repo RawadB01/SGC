@@ -6,7 +6,7 @@ Created on Mon Jun 25 11:53:39 2018
 
 SGC
 
-@author: Rawad
+@authors: Rawad Bitar, Mary Wootters and Salim El Rouayheb
 """
 #%%
 import numpy as np
